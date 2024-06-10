@@ -1,6 +1,6 @@
 from cx_Freeze import setup, Executable
 
-import config
+import config.py
 
 files = [
     "config.yaml",
